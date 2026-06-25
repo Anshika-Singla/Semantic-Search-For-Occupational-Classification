@@ -1,5 +1,4 @@
 ```markdown
-cat > README.md << 'EOF'
 # Semantic Search for Occupational Classification
 
 A Flask web application designed for intelligent job matching and standardized occupational classification using semantic analysis. The system maps user-inputted job descriptions or natural language profiles to standardized occupational categories.
@@ -113,7 +112,7 @@ The application will now be running locally at `http://127.0.0.1:5000/`.
 ## 🛡️ License
 
 This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-EOF
+
 
 ```
 
